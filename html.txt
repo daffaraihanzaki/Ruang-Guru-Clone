@@ -1,0 +1,130 @@
+<!DOCTYPE.html>
+<html>
+    <head>
+        <title>Ruangguru</title>
+        <link rel="stylesheet" href="rg.css">
+    </head>
+    <body>
+            <a href="#"><img class="logo" src="logo.PNG" width="90">
+                <div class="navbar"></a>
+            <ul>
+                    
+                    <li><a href="#" class="navbar_" >Tentang Kami</a></li>
+                    <li><a href="#" class="navbar_" >Produk Kami</a></li>
+                    <li><a href="#" class="navbar_" >Ruang Baca</a></li>
+                    <li><a href="#" class="navbar_" >Bimble Online</a></li>
+                    <li><a href="#" class="navbar_" >Bantuan</a></li>
+            </ul>
+            <ul id="sign">
+                    <li><a href="#" id="masuk" >Masuk</a></li>
+                    <li><a href="#" id="daftar">Daftar</a></li>
+            </ul>
+        </div>
+        <slider>
+            <slide></slide>
+            <slide></slide>
+            <slide></slide>
+            <slide></slide>
+        </slider>
+        <div id="content1">
+            <div id="hp1">
+                    <img src="hp.PNG" width="600">
+            </div>
+            
+            <div id="h1danisi1">
+                <div>
+                    <h1 class="h1">Aplikasi Belajar Untuk<br>Siswa SD,SMP,dan SMA!</h1>
+                </div>
+                <div>
+                   <p class="isi1">Ruangguru adalah aplikasi belajar dengan solusi belajar terlengkap<br>untuk segala kesulitan belajar kamu. Konten tersedia untuk berbagai<br>jenjang mulai dari SD, SMP
+                                dan SMA sesuai dengan kurikulum<br>nasional
+                                 dan dirancang khusus oleh pengajar terba
+                                 ik dan <br>berpengalaman (Master Teacher
+                                 ). Mulai dari nonton video, latihan 
+                                 <br>soal, les privat, tryout semua bisa diakses dari smartphone kamu!</p>
+                </div>
+                <div>
+                    <a href="#" class="downloadgratis">DOWNLOAD GRATIS</a>
+                </div>
+            </div>    
+            
+            <div>
+                <img class="ruangbelajar" src="ruangbelajar.svg">
+                <img class="hp2" src="hp2.png" alt="">
+                <div id="isi2">
+                    <p class="hastag2">#BelajarJadiMudah dengan misi-misi seru berisi video,<br>kuis, dan rangkuman!</p>
+                    <p class="isi2">Ribuan video belajar, latihan soal, dan rangkuman untuk setiap mata<br>
+                        pelajaran utama dari jenjang SD, SMP, dan SMA siap buat kamu dapat<br>
+                        nilai bagus di ulangan harian, UTS, UAS, UN, bahkan SBMPTN.</p>
+                    <a href="#" class="coba_gratis">COBA GRATIS</a>                       
+                </div>
+                
+            </div>                 
+        </div>
+        <div id="hp3">
+            <img src="hp3.png" alt="">
+        </div>
+        <div id="digital">
+            <img src="digital.svg" alt="">
+            <div id="isi3">
+                <p class="hastag3">#BelajarJadiSeru di group chat belajar online dengan<br>
+                    tutor standby, ribuan latihan soal, dan modul belajar!
+                </p>
+                <p class="isi3">
+                    Bebas tanya-jawab soal sepuasnya ke tutor online di group chat <br>
+                    eksklusif-cuma 20 orang saja. Dapatkan juga ratusan modul belajar <br>
+                    berilustrasi dan ribuan soal latihan untuk UN, SBMPTN, dan belajar <br>
+                    harianmu yang disusun Master Teacher berpengalaman sesuai <br>
+                    kurikulum nasional!<br>
+                    <br>
+                    <br>
+                    Yuk daftar sekarang! Tersedia untuk kelas 6 SD sampai 12 SMA dan<br>SBMPTN.
+                </p>
+                <a href="#" class="pelajari">PELAJARI LEBIH LANJUT</a>
+            </div> 
+        </div>
+        <div id="ruangles">
+                <img src="ruangles.svg" alt="">
+            </div>
+        <div id="isi4">
+            <p class="hastag4">#BelajarJadiHebat dimulai dari guru privat untuk kamu!</p>
+            <p class="isi4">Tingkatkan kemampuan akademik maupun non-akademikmu dengan <br>
+            guru les privat yang berpengalaman di bidangnya. Semua bisa diatur<br>
+            sesuai keinginanmu, loh! Tinggal pesan dan guru terbaik siap datang <br>
+            ke tempatmu!
+        </p>
+        <a href="#" class="cariguru">CARI GURU</a>
+        </div>
+        <div id="hp4">
+            <img  src="hp4.png" width="500">
+        </div>
+        <img class="hp5" src="hp5.png" width="500px">
+        <div id="isi5">
+            <img src="ruanglesonline.svg" alt="">
+            <br>
+            <br>
+            <br>
+            <p class="hastag5">#BelajarJadiPraktis dengan bertanya ke tutor secara<br>online!</p>
+            <p class="isi5">Ngerjain soal dan PR nggak perlu bingung lagi! Kamu bisa<br>
+                konsultasikan masalah kamu via aplikasi live chat, lalu guru <br>
+                ruanglesonline akan membantu menjelaskan dan menjawab <br>
+                pertanyaanmu dalam hitungan menit!</p>
+                <a href="#" class="cobagratis">COBA GRATIS</a>
+        </div>
+        
+        <div id="isi6">
+                <img src="ruanguji.svg" alt="">
+                <br>
+                <br>
+                <br>
+                <p class="hastag6">Tryout Ujian Online</p>
+                <p class="isi6">Uji persiapan kamu dalam menghadapi UN, Ujian Semester, UAS, <br>
+                    SBMPTN, UKG serta ujian lainnya, dengan mengikuti tryout berbasis <br>
+                    online. Kamu juga bisa melihat pembahasan soal serta analisis dengan  <br>
+                    kemampuanmu secara lengkap
+            </p>
+            <a href="#" class="cobagratis6">COBA GRATIS</a>
+        </div>
+        <img class="hp6" src="hp6.png" alt="">
+    </body>
+</html>
